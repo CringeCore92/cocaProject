@@ -27,4 +27,4 @@ export const useTestimonialsSlider = () => {
       nextEl: '.testimonials__btn--next',
     },
   });
-};
+}; 
