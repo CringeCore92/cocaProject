@@ -38,7 +38,7 @@ $line: #dcdde1;
   &__text {
     margin: 0;
     
-    font-size: clamp(15px, 1.5vw, 18px);
+        font-size: 30px;
     line-height: 1.6;
     max-width: 560px;
   }
@@ -330,8 +330,8 @@ insight__cta {
 
 :root{
   --people-gap: 24px;
-  --people-text: #111827;      /* почти чёрный */
-  --people-muted: #6B7280;     /* серый для должности */
+  --people-text: #111827;     
+  --people-muted: #6B7280;     
   --card-radius: 4px;
 }
 
